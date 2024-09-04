@@ -1,7 +1,11 @@
+using MVCCoreDemo.Models; 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+// Register StudentDataAccessLayer as a service with the appropriate lifetime
+builder.Services.AddTransient<StudentDataAccessLayer>(); // or AddScoped if needed
 
 var app = builder.Build();
 

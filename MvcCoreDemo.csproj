@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <PackageReference Include="MySql.Data" Version="9.0.0" />
+    <ProjectReference Include="..\MVCAdoDemo\MVCAdoDemo.csproj"></ProjectReference>
   </ItemGroup>
 
 </Project>

@@ -49,3 +49,4 @@ D:\baraneetharan\myworks\BatchAug2024\dotnet\MvcCoreDemo\bin\Debug\net8.0\runtim
 D:\baraneetharan\myworks\BatchAug2024\dotnet\MvcCoreDemo\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
 D:\baraneetharan\myworks\BatchAug2024\dotnet\MvcCoreDemo\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
 D:\baraneetharan\myworks\BatchAug2024\dotnet\MvcCoreDemo\obj\Debug\net8.0\MvcCoreDemo.csproj.CopyComplete
+D:\baraneetharan\myworks\BatchAug2024\dotnet\MvcCoreDemo\obj\Debug\net8.0\MvcCoreDemo.sourcelink.json
