@@ -1,6 +1,14 @@
 # MVCCoreDemo
 
 ```
+dotnet new mvc MvcCoreDemo
+```
+
+```
+dotnet run
+```
+
+```
 dotnet add package MySql.Data --version 9.0.0
 
 ```
