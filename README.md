@@ -1,6 +1,11 @@
 # MVCCoreDemo
 
 ```
+dotnet add package MySql.Data --version 9.0.0
+
+```
+
+```
 CREATE TABLE tblStudent (
     StudId INT AUTO_INCREMENT PRIMARY KEY,
     Name VARCHAR(20) NOT NULL,
